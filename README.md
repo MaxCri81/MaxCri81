@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Max and I am currently studying IT Software Development at The Open University. I am interested in Python, Java, JavaScript and PHP.
 
-- 🔭 I’m currently working on Pig Game [https://max-portfolio.epizy.com/PigGame/], builing a game hosted in a webpage
+- 🔭 I’m currently working on Pig Game [https://max-portfolio.epizy.com/PigGame/], builing an HTML and JavaScript game.
 - 🌱 I’m currently learning Java.
 
 <!--
