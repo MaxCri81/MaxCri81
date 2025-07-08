@@ -2,7 +2,7 @@
 I'm Max and I am currently studying IT Software Development at The Open University. I am interested in Python, Java, JavaScript and PHP.
 
 - 🔭 I’m currently working on Pig Game [https://github.com/MaxCri81/PigGame], building an HTML and JavaScript game.
-- 🎉 I recently built a webpage in HTML and CSS where I showcase some techniques I have learned in JavaScript 👉 [https://github.com/MaxCri81/MaxDevelopment]
+- 🎉 I have recently built a webpage in HTML and CSS where I showcase some techniques I have learned in JavaScript 👉 [https://github.com/MaxCri81/MaxDevelopment]
 - 🌱 I’m currently learning Java.
 
 <!--
