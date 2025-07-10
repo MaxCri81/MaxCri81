@@ -2,7 +2,7 @@
 I'm Max and I am currently studying IT Software Development at The Open University. I am interested in Python, Java, JavaScript and PHP.
 
 - 🔭  I’m currently working on Bankist [https://github.com/MaxCri81/Bankist], which is a sample banking application.
-- 🎉 I’ve launched my very own webpage crafted with HTML and CSS! It’s a celebration of the JavaScript techniques I’ve been diving into lately. Explore the innovative features and ideas I’ve put into practice!👉 [https://github.com/MaxCri81/MaxDevelopment]
+- 🎉 I’ve launched my own webpage developed with HTML, CSS and JavaScript! It’s a demonstration of some of the techniques I’ve been diving into lately.👉 [https://github.com/MaxCri81/MaxDevelopment]
 - 🌱 I’m currently learning Java.
 
 <!--
